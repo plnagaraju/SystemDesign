@@ -1,2 +1,2 @@
 # SystemDesign
-Practicing System Design from Gaurav Sen lectures
+Practicing System Design from Gauravsen/Sudocode/Bytebytego resources.
